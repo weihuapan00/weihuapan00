@@ -1,16 +1,15 @@
-## Hi there 👋
+---
+title: Weihua Pan
+description: Personal homepage of Weihua Pan
+---
+<link rel="stylesheet" href="style.css">
 
-<!--
-**weihuapan00/weihuapan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my Homepage <span class="shake">👋</span>
 
-Here are some ideas to get you started:
+My name is **Weihua Pan**, a Data Scientist & Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy working on **data analysis, algorithms, and frontend visualization**.  
+- **Skills:** Python, PyTorch, Scikit-learn, Javascript, React, D3.js  
+- I also have experience with **machine learning, data engineering**, and **LLM fine-tuning**.  
+- I love turning complex data into clear, interactive insights.
+
